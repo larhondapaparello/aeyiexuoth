@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thiequeiwo.earthwandering.com/sitemap.xml
